@@ -522,7 +522,9 @@
     "paddingContentVerticalSM": {
       "value": "{sizeXS}",
       "type": "spacing"
-    },
+    }
+  },
+  "custom/boxShadow": {
     "boxShadow": {
       "value": [
         {
@@ -653,10 +655,6 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
-    },
-    "paddingTooltipContentVertical": {
-      "value": "({paddingSM} / 2)",
-      "type": "spacing"
     },
     "footerActionBgBlur": {
       "value": {
@@ -2571,7 +2569,8 @@
         "dark/alias": "enabled",
         "base/seed": "enabled",
         "base/map": "enabled",
-        "base/alias": "enabled"
+        "base/alias": "enabled",
+        "custom/boxShadow": "enabled"
       },
       "$figmaStyleReferences": {
         "Base.Base Normal": "S:f1c4e3c4fa6bcd3be06a60828cbcccd988e5a432,",
@@ -2611,7 +2610,8 @@
         "light/alias": "enabled",
         "base/seed": "enabled",
         "base/map": "enabled",
-        "base/alias": "enabled"
+        "base/alias": "enabled",
+        "custom/boxShadow": "enabled"
       },
       "$figmaStyleReferences": {
         "Base.Base Normal": "S:829e08a12a0b2265d8132823ad1338dbbd2cf24a,",
@@ -2647,6 +2647,7 @@
       "base/seed",
       "base/map",
       "base/alias",
+      "custom/boxShadow",
       "light/colors",
       "light/seed",
       "light/map",
