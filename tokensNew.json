@@ -2481,7 +2481,7 @@
       "type": "color"
     },
     "colorLink": {
-      "value": "#ff473d",
+      "value": "{colorPrimaryBase}",
       "type": "color"
     },
     "colorLinkHover": {
