@@ -5,7 +5,7 @@ on:
     paths:
       - 'src/tokens/**'
     branches:
-      - newTokens
+      - main
 
 jobs:
   transform_tokens:
