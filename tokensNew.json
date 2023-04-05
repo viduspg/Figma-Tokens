@@ -516,7 +516,7 @@
       "type": "spacing"
     },
     "paddingContentHorizontalSM": {
-      "value": "{size}",
+      "value": "{size} / 2",
       "type": "spacing"
     },
     "paddingContentVerticalSM": {
