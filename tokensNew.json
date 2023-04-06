@@ -72,7 +72,7 @@
       "type": "sizing"
     },
     "sizeXXS": {
-      "value": "$sizeUnit * ($sizeStep - 3)",
+      "value": "$sizeUnit * ($sizeStep - 3.5)",
       "type": "sizing"
     },
     "controlHeightSM": {
