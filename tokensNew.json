@@ -2187,8 +2187,9 @@
       "type": "color"
     },
     "colorBgContainer": {
-      "value": "#141414",
-      "type": "color"
+      "value": "#1D2024",
+      "type": "color",
+      "description": "Original - #141414.\nModified to match workspace - 1D2024"
     },
     "colorFillQuaternary": {
       "value": "rgba({colorTextBase}, 0.04)",
