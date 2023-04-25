@@ -604,8 +604,9 @@
         "type": "color"
       },
       "6": {
-        "value": "#1677ff",
-        "type": "color"
+        "value": "#0A84FF",
+        "type": "color",
+        "description": "Original #1677ff\nchanged to #0A84FF"
       },
       "7": {
         "value": "#0958d9",
@@ -1641,8 +1642,9 @@
         "type": "color"
       },
       "6": {
-        "value": "#1668dc",
-        "type": "color"
+        "value": "#0A84FF",
+        "type": "color",
+        "description": "orginal - #1668dc\nChanged to - #0A84FF"
       },
       "7": {
         "value": "#3c89e8",
