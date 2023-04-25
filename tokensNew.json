@@ -1127,8 +1127,9 @@
       "type": "color"
     },
     "colorTextSecondary": {
-      "value": "rgba({colorTextBase}, 0.65)",
-      "type": "color"
+      "value": "#6C6C70",
+      "type": "color",
+      "description": "original - rgba({colorTextBase}, 0.65)\nchanged to - 6C6C70"
     },
     "colorTextTertiary": {
       "value": "rgba({colorTextBase}, 0.45)",
@@ -2163,8 +2164,9 @@
       "type": "color"
     },
     "colorTextSecondary": {
-      "value": "rgba({colorTextBase}, 0.65)",
-      "type": "color"
+      "value": "AEAEB2",
+      "type": "color",
+      "description": "original - rgba({colorTextBase}, 0.65)\nchanged to - #AEAEB2"
     },
     "colorTextTertiary": {
       "value": "rgba({colorTextBase}, 0.45)",
