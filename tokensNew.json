@@ -2650,274 +2650,6 @@
       "type": "boxShadow"
     }
   },
-  "components/button": {
-    "colorText": {
-      "value": "rgba({colorTextBase}, 0.85)",
-      "type": "color"
-    },
-    "colorTextSecondary": {
-      "value": "AEAEB2",
-      "type": "color",
-      "description": "original - rgba({colorTextBase}, 0.65)\nchanged to - #AEAEB2"
-    },
-    "colorTextTertiary": {
-      "value": "rgba({colorTextBase}, 0.45)",
-      "type": "color"
-    },
-    "colorTextQuaternary": {
-      "value": "rgba({colorTextBase}, 0.25)",
-      "type": "color"
-    },
-    "colorFill": {
-      "value": "rgba({colorTextBase}, 0.18)",
-      "type": "color"
-    },
-    "colorFillSecondary": {
-      "value": "rgba({colorTextBase}, 0.12)",
-      "type": "color"
-    },
-    "colorFillTertiary": {
-      "value": "rgba({colorTextBase}, 0.08)",
-      "type": "color"
-    },
-    "colorBgContainer": {
-      "value": "#1D2024",
-      "type": "color",
-      "description": "Original - #141414.\nModified to match workspace - 1D2024"
-    },
-    "colorFillQuaternary": {
-      "value": "rgba({colorTextBase}, 0.04)",
-      "type": "color"
-    },
-    "colorBgLayout": {
-      "value": "{colorBgBase}",
-      "type": "color"
-    },
-    "colorBgElevated": {
-      "value": "#1F1F1F",
-      "type": "color"
-    },
-    "colorBgSpotlight": {
-      "value": "#424242",
-      "type": "color"
-    },
-    "colorBorder": {
-      "value": "#424242",
-      "type": "color"
-    },
-    "colorBorderSecondary": {
-      "value": "#303030",
-      "type": "color"
-    },
-    "colorSplit": {
-      "value": "rgba({colorTextBase}, 0.06)",
-      "type": "color"
-    },
-    "colorPrimaryBg": {
-      "value": "{blue.1}",
-      "type": "color"
-    },
-    "colorPrimaryBgHover": {
-      "value": "{blue.2}",
-      "type": "color"
-    },
-    "colorPrimaryBorder": {
-      "value": "{blue.3}",
-      "type": "color"
-    },
-    "colorPrimaryBorderHover": {
-      "value": "{blue.4}",
-      "type": "color"
-    },
-    "colorPrimaryHover": {
-      "value": "#D6002A",
-      "type": "color"
-    },
-    "colorPrimaryBase": {
-      "value": "#FF2D55",
-      "type": "color"
-    },
-    "colorPrimaryActive": {
-      "value": "{blue.5}",
-      "type": "color"
-    },
-    "colorPrimaryTextHover": {
-      "value": "{blue.8}",
-      "type": "color"
-    },
-    "colorPrimaryText": {
-      "value": "{blue.9}",
-      "type": "color"
-    },
-    "colorPrimaryTextActive": {
-      "value": "{blue.10}",
-      "type": "color"
-    },
-    "colorSuccessBg": {
-      "value": "{green.1}",
-      "type": "color"
-    },
-    "colorSuccessBgHover": {
-      "value": "{green.2}",
-      "type": "color"
-    },
-    "colorSuccessBorder": {
-      "value": "{green.3}",
-      "type": "color"
-    },
-    "colorSuccessBorderHover": {
-      "value": "{green.4}",
-      "type": "color"
-    },
-    "colorSuccessHover": {
-      "value": "{green.7}",
-      "type": "color"
-    },
-    "colorSuccessBase": {
-      "value": "{green.6}",
-      "type": "color"
-    },
-    "colorSuccessActive": {
-      "value": "{green.5}",
-      "type": "color"
-    },
-    "colorSuccessTextHover": {
-      "value": "{green.8}",
-      "type": "color"
-    },
-    "colorSuccessText": {
-      "value": "{green.9}",
-      "type": "color"
-    },
-    "colorSuccessTextActive": {
-      "value": "{green.10}",
-      "type": "color"
-    },
-    "colorWarningBg": {
-      "value": "{gold.1}",
-      "type": "color"
-    },
-    "colorWarningBgHover": {
-      "value": "{gold.2}",
-      "type": "color"
-    },
-    "colorWarningBorder": {
-      "value": "{gold.3}",
-      "type": "color"
-    },
-    "colorWarningBorderHover": {
-      "value": "{gold.4}",
-      "type": "color"
-    },
-    "colorWarningHover": {
-      "value": "{gold.7}",
-      "type": "color"
-    },
-    "colorWarningBase": {
-      "value": "{gold.6}",
-      "type": "color"
-    },
-    "colorWarningActive": {
-      "value": "{gold.5}",
-      "type": "color"
-    },
-    "colorWarningTextHover": {
-      "value": "{gold.8}",
-      "type": "color"
-    },
-    "colorWarningText": {
-      "value": "{gold.9}",
-      "type": "color"
-    },
-    "colorWarningTextActive": {
-      "value": "{gold.10}",
-      "type": "color"
-    },
-    "colorErrorBg": {
-      "value": "{red.1}",
-      "type": "color"
-    },
-    "colorErrorBgHover": {
-      "value": "{red.2}",
-      "type": "color"
-    },
-    "colorErrorBorder": {
-      "value": "{red.3}",
-      "type": "color"
-    },
-    "colorErrorBorderHover": {
-      "value": "{red.4}",
-      "type": "color"
-    },
-    "colorErrorHover": {
-      "value": "{red.8}",
-      "type": "color"
-    },
-    "colorErrorBase": {
-      "value": "{red.7}",
-      "type": "color"
-    },
-    "colorErrorActive": {
-      "value": "{red.4}",
-      "type": "color"
-    },
-    "colorErrorTextHover": {
-      "value": "{red.8}",
-      "type": "color"
-    },
-    "colorErrorText": {
-      "value": "{red.9}",
-      "type": "color"
-    },
-    "colorErrorTextActive": {
-      "value": "{red.10}",
-      "type": "color"
-    },
-    "colorInfoBg": {
-      "value": "{blue.1}",
-      "type": "color"
-    },
-    "colorInfoBgHover": {
-      "value": "{blue.2}",
-      "type": "color"
-    },
-    "colorInfoBorder": {
-      "value": "{blue.3}",
-      "type": "color"
-    },
-    "colorInfoBorderHover": {
-      "value": "{blue.4}",
-      "type": "color"
-    },
-    "colorInfoHover": {
-      "value": "{blue.7}",
-      "type": "color"
-    },
-    "colorInfoBase": {
-      "value": "{blue.6}",
-      "type": "color"
-    },
-    "colorInfoActive": {
-      "value": "{blue.5}",
-      "type": "color"
-    },
-    "colorInfoTextHover": {
-      "value": "{blue.8}",
-      "type": "color"
-    },
-    "colorInfoText": {
-      "value": "{blue.9}",
-      "type": "color"
-    },
-    "colorInfoTextActive": {
-      "value": "{blue.10}",
-      "type": "color"
-    },
-    "colorBgMask": {
-      "value": "rgba(0, 0, 0, 0.45)",
-      "type": "color"
-    }
-  },
   "$themes": [
     {
       "id": "5655c9000144d7424421b9cfcb1c0e2681437e98",
@@ -2930,8 +2662,7 @@
         "base/seed": "enabled",
         "base/map": "enabled",
         "base/alias": "enabled",
-        "custom/boxShadow": "enabled",
-        "components/button": "enabled"
+        "custom/boxShadow": "enabled"
       },
       "$figmaStyleReferences": {
         "Base.Base Normal": "S:8abcecec0e596ad7a12d5dfe12d761d7cb2a5579,",
@@ -2972,8 +2703,7 @@
         "base/seed": "enabled",
         "base/map": "enabled",
         "base/alias": "enabled",
-        "custom/boxShadow": "enabled",
-        "components/button": "enabled"
+        "custom/boxShadow": "enabled"
       },
       "$figmaStyleReferences": {
         "Base.Base Normal": "S:d8729510a5442f9d47ab267b07590e2fcf6eb446,",
@@ -3017,8 +2747,7 @@
       "dark/colors",
       "dark/seed",
       "dark/map",
-      "dark/alias",
-      "components/button"
+      "dark/alias"
     ]
   }
 }
