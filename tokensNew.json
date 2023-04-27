@@ -127,7 +127,7 @@
   },
   "base/alias": {
     "fontSizeSM": {
-      "value": "13",
+      "value": "12",
       "type": "fontSizes"
     },
     "fontSizeLG": {
